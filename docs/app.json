@@ -1,0 +1,1 @@
+[{"name":"app.R","content":"library(shinyjs)\nlibrary(kableExtra)\nlibrary(colorblindcheck)\nlibrary(plotly)\nlibrary(cols4all)\n\nc4a_gui()\n","type":"text"}]
